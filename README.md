@@ -35,7 +35,7 @@ Funciona igual en el computador y en el celular, con modo claro y oscuro.
 
 ![Mis ofertas: lo tomado y lo preparado por cada vendedor](imagenes/radar_mis_ofertas.webp)
 
-![El Radar en el celular](imagenes/radar_celular.webp)
+![El Radar en el celular: la lista y el detalle de una compra](imagenes/anim_celular.webp)
 
 ## Preparar una oferta
 
@@ -51,11 +51,11 @@ toma el pedido en menos de dos minutos y hace el resto:
 5. Arma la cotización, la propuesta con fotos y la experiencia con las órdenes de compra que la respaldan.
 6. Deja una lista corta de lo que hay que mirar antes de subir, con un semáforo.
 
-![Preparar oferta con los precios recomendados](imagenes/radar_preparar.webp)
+![Preparar oferta: los precios recomendados se llenan y el total se actualiza](imagenes/anim_preparar.webp)
 
 ![Lo que pide la compra, leído de las bases](imagenes/radar_que_piden.webp)
 
-![La oferta lista y la lista para revisar antes de subir](imagenes/radar_oferta_lista.webp)
+![La lista para revisar antes de subir, marcándose](imagenes/anim_revisar.webp)
 
 Lo que sale, listo para subir (cuenta bancaria, RUT personal y timbre tapados):
 
